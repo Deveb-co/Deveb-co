@@ -1,5 +1,4 @@
-- Hi 👋
-- We are Deveb
+- Hi 👋 It's Deveb
 - A creative digital agency
 -
 - We make:
