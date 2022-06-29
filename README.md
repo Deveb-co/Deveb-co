@@ -1,6 +1,12 @@
-- 👋 Hi, we're @Deveb-co
-- 👀 A digital agency 
-- with solid web design and development expertise 
+- Hi 👋
+- We are Deveb
+- A creative digital agency
+-
+- We make:
+- 🌐 Websites
+- 🎨 UI/UX Design
+-  ™️ Branding
+-
 
 <!---
 Deveb-co/Deveb-co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
