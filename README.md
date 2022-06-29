@@ -6,7 +6,6 @@
 - 🌐 Websites
 - 🎨 UI/UX Design
 -  ™️ Branding
--
 
 <!---
 Deveb-co/Deveb-co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
